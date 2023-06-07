@@ -1,0 +1,9 @@
+Use the switch statement to create a program that will find the month based on the number input. Take the input number from 1 to 12. And, print the corresponding month based on the input value.
+
+b+ If number is 1, print January
+
+b
+" If number is 2, print February
+
+b
+" If number is 3, print March, and so on.
