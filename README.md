@@ -15,3 +15,6 @@
 
 # Day 5
 - Did not learn
+
+# Day 6
+- Did not learn
