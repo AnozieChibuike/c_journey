@@ -9,3 +9,12 @@
 # Day 3
 - Learnt Ternary
 - Learnt Switches
+
+# Day 4
+- Did not learn
+
+# Day 5
+- Did not learn
+
+# Day 6
+- Did not learn
