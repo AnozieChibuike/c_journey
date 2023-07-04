@@ -18,3 +18,5 @@
 
 # Day 6
 - Did not learn
+
+i have actually been learning but doing online compiler projects
